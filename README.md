@@ -1,6 +1,6 @@
 [![Tic-Tac-Toe, Tower of Hanoi and Checkers games with Panda Robot](https://img.youtube.com/vi/T34peibtNsY/maxresdefault.jpg)]([https://www.youtube.com/watch?v=JLMbpiywVxQ](https://youtu.be/T34peibtNsY))
 
-# Masterarbeit Robby Courbis Tatchou Djakou MOS Hochschule Furtwangen
+# Masterarbeit Robby Courbis Tatchou Djakou Hochschule Furtwangen
 
 ## Franka Emika Games
 **Franka Emika Game** ist eine Desktop-Anwendung, die in Python-Programmiersprache entwickelt wurde, mit dem Ziel drei Spiele, und zwar Tic-Tac-Toe, Türme von Hanoi und Dame anzubieten. Mit dieser Anwendung hat der Benutzer die Möglichkeit eine dieser 3 Spiele gegen eines Armroboters, und zwar den **Panda-Roboter** zu spielen. Durch den Einsatz einer 2D-Kamera hat der Panda-Roboter die Möglichkeit die Spielumgebung zu überwachen und die Züge durchzuführen.
