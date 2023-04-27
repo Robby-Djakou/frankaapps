@@ -1,4 +1,4 @@
-[![Tic-Tac-Toe, Tower of Hanoi and Checkers games with Panda Robot](https://img.youtube.com/vi/T34peibtNsY/maxresdefault.jpg)](https://youtu.be/T34peibtNsY))
+[![Tic-Tac-Toe, Tower of Hanoi and Checkers games with Panda Robot](https://img.youtube.com/vi/T34peibtNsY/maxresdefault.jpg)](https://youtu.be/T34peibtNsY)
 
 # Masterarbeit Robby Courbis Tatchou Djakou Hochschule Furtwangen
 
