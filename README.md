@@ -94,7 +94,3 @@ folder of the application must be opened in Visual Studio Code. To do this, clic
 + Now you can start a game and enjoy.
 + **Note:** For the game Tic-Tac-Toe, the game field must look like this:
 ![tic-tac-toe-gamefield](image_readme/Tic-Tac-Toe.jpeg?raw=true "Tic-Tac-Toe Gamefield")
-
-
-
-
